@@ -107,7 +107,7 @@ For Claude Code (user scope):
 
 ```bash
 mkdir -p ~/.claude/skills/spring-boot-pr-review
-curl -L https://raw.githubusercontent.com/buildmuse/spring-boot-pr-review-skill/main/SKILL.md \
+curl -L https://raw.githubusercontent.com/buildmuse/spring-boot-pr-review-skill/main/spring-boot-pr-review/SKILL.md \
   -o ~/.claude/skills/spring-boot-pr-review/SKILL.md
 ```
 
