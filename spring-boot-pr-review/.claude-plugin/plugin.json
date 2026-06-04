@@ -1,0 +1,21 @@
+{
+  "name": "spring-boot-pr-review",
+  "description": "Reviews Java/Spring Boot/PostgreSQL pull requests at production severity — transaction proxy bugs, JPA pitfalls, multi-tenant isolation, and adversarial security.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Preethi"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "agent-skills",
+    "spring-boot",
+    "java",
+    "code-review",
+    "pr-review",
+    "postgresql",
+    "jpa",
+    "hibernate"
+  ]
+}

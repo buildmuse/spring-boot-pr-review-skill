@@ -1,0 +1,35 @@
+{
+  "name": "spring-boot-pr-review-skill",
+  "owner": {
+    "name": "Preethi"
+  },
+  "description": "A single-skill marketplace that installs a production-grade Java/Spring Boot/PostgreSQL PR review skill for Claude Code.",
+  "plugins": [
+    {
+      "name": "spring-boot-pr-review",
+      "source": "./spring-boot-pr-review",
+      "description": "Reviews Java/Spring Boot/PostgreSQL pull requests at production severity — transaction proxy bugs, JPA pitfalls, multi-tenant isolation, and adversarial security.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Preethi"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/buildmuse/spring-boot-pr-review-skill",
+      "repository": "https://github.com/buildmuse/spring-boot-pr-review-skill",
+      "keywords": [
+        "claude-code",
+        "claude-skill",
+        "agent-skills",
+        "spring-boot",
+        "java",
+        "code-review",
+        "pr-review",
+        "postgresql",
+        "jpa",
+        "hibernate"
+      ],
+      "category": "code-review",
+      "tags": ["java", "spring-boot", "postgresql", "jpa", "code-review", "security"]
+    }
+  ]
+}
